@@ -1,0 +1,26 @@
+.DotWrap {
+  position: relative;
+  margin-bottom: 70px;
+}
+.Dot {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  padding: 7px 3px 5px 3px;
+  font-size: 10px;
+  text-align: center;
+  font-weight: 700;
+  position: absolute;
+}
+
+.Hue {
+  text-align: center;
+  font-weight: 700;
+  font-size: 10px;
+  width: 25px;
+  height: 25px;
+  color: black;
+  margin-top: 5px;
+  position: absolute;
+}
